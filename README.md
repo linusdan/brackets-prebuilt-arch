@@ -12,5 +12,5 @@ $ sudo pacman -U brackets-1.14-2-x86_64.pkg.tar.xz
 ```
 
 Download:
-* [**Brackets**](https://gitlab.com/linusdan/brackets-prebuilt-arch/raw/master/prebuilt/brackets-1.14-2-x86_64.pkg.tar.xz)
-* [**SHA256SUM**](https://gitlab.com/linusdan/brackets-prebuilt-arch/raw/master/prebuilt/SHA256SUMS)
+* [**Brackets**](https://gitlab.com/linusdan/brackets-prebuilt-arch/raw/primary/prebuilt/brackets-1.14-2-x86_64.pkg.tar.xz)
+* [**SHA256SUM**](https://gitlab.com/linusdan/brackets-prebuilt-arch/raw/primary/prebuilt/SHA256SUMS)
